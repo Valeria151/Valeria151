@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valeria151
+- 👋 Olá, sou a @Valeria151
 E estou construindo  meu proprio novo caminho na area do desenvolvimento!
 🌟 Novata no mundo da programação, estou cada dia a um passo mais proxima dos meus objetivos.
 O que estou aprendendo atualmente:
