@@ -1,6 +1,6 @@
-- 👋 Olá, sou a @Valeria151
+- 👋 Olá, sou a @Valeria
 E estou construindo  meu proprio novo caminho na area do desenvolvimento!
-🌟 Novata no mundo da programação, estou cada dia a um passo mais proxima dos meus objetivos.
+🌟 Novata no mundo da programação, estou cada dia um passo mais proxima dos meus objetivos.
 O que estou aprendendo atualmente:
  Desenvolvimento web com HTML, CSS e JavaScript
 🚀 Outras linguagens e frameworks em breve!
